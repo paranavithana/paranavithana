@@ -1,6 +1,6 @@
 ## Hi, I’m Matheesha Paranavithana
 
 - I’m interested in Technology, Software Development, and Engineering Projects.
-- Currently learning Python,JavaScript,MERN and d3.js.
+- Currently learning advance python,JavaScript,MERN and d3.js.
 - Looking to collaborate on software projects and innovative tech solutions.
 - Working for a personal project called whalesEyE.
