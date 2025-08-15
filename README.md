@@ -1,4 +1,4 @@
-## Hi, I’m Matheesha Paranavithana
+## Hi
 
 - I’m interested in Technology, Software Development, and Engineering Projects.
 - Currently learning advance python,JavaScript,MERN and d3.js.
